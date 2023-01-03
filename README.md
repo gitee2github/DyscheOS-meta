@@ -1,4 +1,5 @@
 # DyscheOS-meta
+仓库状态设置为关闭的原因: https://gitee.com/openeuler/community/pulls/3792
 
 #### 介绍
 This standalone repository contains resources about DyscheOS, including designs, document, demo, binary blobs, etc.
@@ -35,3 +36,4 @@ This standalone repository contains resources about DyscheOS, including designs,
 4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
 5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
 6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+
